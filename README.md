@@ -17,3 +17,9 @@ https://pixelsconverter.com/pt-to-px
 4. Utilizar las propiedades: font-family, font-size, color y background-color.
 5. Trabajar con Google Fonts para implementar las tipografías, según la referencia de la diapositiva 6. Para convertir pt a px, recomendamos utilizar: https://pixelsconverter.com/pt-to-px
 6. Utilizar las tipografías y sus variantes (bold, regular) correctamente desde Google Fonts.
+
+## Ejercicio 3
+1. Trabajaremos sobre el archivo creado en el ejercicio 2. Será primordial que todos los textos se trabajen dentro de un div.
+2. Utilizar las propiedades: font-family, font-size, color, background-color.
+3. También, agregar un strong al texto que dice 50%, para poder diferenciarlo del resto de los elementos.
+5. Utilizar los colores y cambios a partir de la referencia de la diapositiva siguiente.
