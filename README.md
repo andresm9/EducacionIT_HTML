@@ -1,4 +1,4 @@
-# EducacionIT_HTML
+# EducacionIT - HTML Desafio 1
 EducacionIT - Desafios de HTML
 
 ## Ejercicio 1
@@ -23,3 +23,5 @@ https://pixelsconverter.com/pt-to-px
 2. Utilizar las propiedades: font-family, font-size, color, background-color.
 3. También, agregar un strong al texto que dice 50%, para poder diferenciarlo del resto de los elementos.
 5. Utilizar los colores y cambios a partir de la referencia de la diapositiva siguiente.
+
+# EducacionIT - HTML Desafio 2
