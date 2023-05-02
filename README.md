@@ -24,4 +24,22 @@ https://pixelsconverter.com/pt-to-px
 3. También, agregar un strong al texto que dice 50%, para poder diferenciarlo del resto de los elementos.
 5. Utilizar los colores y cambios a partir de la referencia de la diapositiva siguiente.
 
+
 # EducacionIT - HTML Desafio 2
+
+## Ejercicio 1
+1. Crear un archivo llamado index.html, luego, colocar el texto "Laboratorio 1" en la etiqueta title y visualizar el mismo en la pestaña del navegador.
+2. Utilizar enunciados, strong, listas, párrafos, imágenes y contenedores.
+3. Aplicar las propiedades: font-family, font-size, color, background-color, width, height, padding, margin.
+4. Trabajar con Google Fonts para implementar las tipografías, según la referencia de la siguiente diapositiva. Para convertir pt a px, recomendamos utilizar:
+https://pixelsconverter.com/pt-to-px
+5. Utilizar las tipografías y sus variantes (bold, regular) correctamente desde Google Fonts.
+
+Ejercicio 2
+1. Crear un archivo llamado index.html, colocar el texto "Laboratorio 2" en la etiqueta title y visualizarlo en la pestaña del navegador.
+2. Utilizar enunciados, strong, listas, párrafos, imágenes y contenedores.
+3. Aplicar las propiedades: font-family, font-size, color, background-color, width, height, padding, margin.
+4. Para guiarte, te indicamos cómo debería implementarse la regla de estilo a las imágenes para lograr el mismo resultado:
+```
+img {width:100px; vertical-align: middle;margin-left: 30px;}
+```
