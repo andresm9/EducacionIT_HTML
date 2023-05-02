@@ -35,7 +35,7 @@ https://pixelsconverter.com/pt-to-px
 https://pixelsconverter.com/pt-to-px
 5. Utilizar las tipografías y sus variantes (bold, regular) correctamente desde Google Fonts.
 
-Ejercicio 2
+## Ejercicio 2
 1. Crear un archivo llamado index.html, colocar el texto "Laboratorio 2" en la etiqueta title y visualizarlo en la pestaña del navegador.
 2. Utilizar enunciados, strong, listas, párrafos, imágenes y contenedores.
 3. Aplicar las propiedades: font-family, font-size, color, background-color, width, height, padding, margin.
@@ -43,3 +43,12 @@ Ejercicio 2
 ```
 img {width:100px; vertical-align: middle;margin-left: 30px;}
 ```
+5. Trabajar con Google Fonts para implementar las tipografías, según la referencia debajo. Para convertir pt a px, recomendamos utilizar: https://pixelsconverter.com/pt-to-px
+6. Utilizar las tipografías y sus variantes (bold, light) correctamente desde Google Fonts.
+
+## Ejercicio 3
+1. Crear un archivo llamado index.html, colocar el texto "Laboratorio 2" en la etiqueta title y visualizarlo en la pestaña del navegador.
+2. Utilizar enunciados, strong, listas, párrafos, imágenes y contenedores.
+3. Aplicar las propiedades: font-family, font-size, color, background-color, width, height, padding, margin. Recordemos que el valor en margin:auto nos permite centrar los elementos.
+4. La imagen posee un width de 600px y el main (contenedor general) tiene un width de 50%. El juego con contenedores en diferentes tamaños y centrados es fundamental para lograr el resultado final.
+5. Trabajar con Google Fonts para implementar las tipografías, según la referencias en la diapositiva a continuación. Para convertir pt a px, recomendamos utilizar: https://pixelsconverter.com/pt-to-px
