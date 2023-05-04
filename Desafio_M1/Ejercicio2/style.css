@@ -1,0 +1,46 @@
+
+
+.body{
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+.heading-medium {
+    font-size: 5rem;
+}
+
+.heading-large {
+    font-size: 12rem;
+    background-color: white;
+    color: black;
+}
+
+.heading-extra-large {
+    font-size: 14rem;
+    background-color: black;
+    color: white;
+}
+
+.heading-small {
+
+    color: black;
+    background-color: white;
+    font-weight: 600;
+    font-size: 3rem;
+
+}
+
+.heading-xs {
+
+    font-size: 4rem;
+    font-weight: 900;
+}
+.strong {
+
+    font-size: 5rem;
+
+}

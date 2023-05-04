@@ -1,0 +1,49 @@
+.body{
+    margin: 0 auto;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+.heading-1 {
+    font-size: 3rem;
+    color: #0a2ff1;
+}
+
+.heading-2 {
+    font-size: 12rem;
+    background-color: black;
+    color: white;
+}
+
+.heading-3 {
+    font-size: 13rem;
+    background-color: white;
+    color: black;
+}
+
+.heading-4 {
+
+    color: #0a2ff1;
+    background-color: white;
+    font-weight: 600;
+    font-size: 3rem;
+
+}
+
+.heading-5 {
+
+    font-size: 3rem;
+    font-weight: 600;
+    color: #0a2ff1;
+    background-color: white;
+}
+strong {
+
+    font-size: 3rem;
+    background-color: black;
+    color: white;
+
+}
