@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.button {
+
+    margin: 30px 0 10px 0;
+    padding: 10px;
+    color: white;
+    background-color: #8a9af1;
+    font-size: 1.8rem;
+
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 4rem;
+    color: #0a2ff1;
+
+}
+
+.text-p {
+    font-size: 1.8rem;
+    color: #0a2ff1;
+    background-color: #eff2ff;
+    display: inline;
+    margin-right: 10px;
+}
+
+.line{
+    border-bottom: 5px solid #3ffff3;
+}
+
+img{
+    width: 30%;
+    height: 230px;
+}

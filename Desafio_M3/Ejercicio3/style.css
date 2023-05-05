@@ -1,0 +1,68 @@
+
+body {
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    
+}
+
+.title {
+
+    font-size: 1.5rem;
+    color: #04146c;
+}
+
+.form {
+    display: inline-table;
+}
+
+.input-box {
+    display: block;
+    padding: 10px;
+    font-size: 1.16rem;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 50px;
+    
+}
+
+.button{
+    font-family: 'Mulish', sans-serif;
+    color: white;
+    background-color: #0a2ff1;
+    font-weight: bold;
+    font-size: 1.25rem;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 525px;
+    height: 50px;
+}
+
+.container{
+    width: 600px;
+    border: 1px solid #ccd3ff;
+    margin: auto;
+}
+
+a {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.25rem;
+    color: #0a2ff1;
+    line-height: 50px;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+hr{
+    display: block;
+    margin: 10px 0;
+}
+
+
+/*
+input[type=button]:active{
+    background-color: white;
+    color: black;
+}*/
